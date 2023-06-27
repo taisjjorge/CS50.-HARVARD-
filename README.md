@@ -13,6 +13,6 @@
 | Módulos  | Conteúdo |
 | ------------- |:-------------:|
 | Módulo 1      | C     |
-| Módulo 2      |      |
-| Módulo 3      |      |
+| Módulo 2      | Arrays     |
+| Módulo 3      | Algoritmos   |
 
